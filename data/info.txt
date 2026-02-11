@@ -1,0 +1,21 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Irasema Álvarez Treviño
+Matrícula: A01286449
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Tomé este curso para tener una introducción más formal al análisis de datos y desarrollar la capacidad de interpretar información y tomar decisiones a partir de la modelación y el análisis. Me interesa aprender a transformar datos en conclusiones útiles que puedan aplicarse a problemas reales.  
+
+¿Qué espero aprender?
+Espero aprender el flujo completo de un proyecto de ciencia de datos, desde el preprocesamiento de datos hasta su visualización, modelado y evaluación. También me gustaría fortalecer mis habilidades en herramientas como python. Además, me gustaría familiarizarme más con la plataforma de github, ya que la he tratado de utilizar pocas veces pero nunca me quedó del todo claro su funcionamiento (¡con estos primeros días de clase que la he utilizado ya me está quedando mucho más claro!)
+
+Herramientas que ya conozco:
+- Python
+- R
+- C++
+- Microsoft 365
+
+Herramientas nuevas para mí:
+- Github
