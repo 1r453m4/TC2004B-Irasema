@@ -19,6 +19,13 @@ TC2004B-Irasema/
 ├── notebooks/     # Jupyter Notebooks
 └── data/          # Datasets (cuando aplique)
 
+## Objetivos del Repositorio
+
+- Aplicar técnicas de análisis de datos vistas en clase
+- Documentar procesos de limpieza, exploración y modelado
+- Practicar buenas prácticas de control de versiones
+- Construir un portafolio académico de proyectos
+
 ## Contenido por Semana
 
 ### Semana 1
