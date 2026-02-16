@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 # TC2004B - Análisis de Ciencia de Datos
 
 **Nombre:** Irasema Álvarez Treviño  
